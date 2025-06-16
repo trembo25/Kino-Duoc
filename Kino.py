@@ -6,5 +6,5 @@ print("====validador de usuario====")
 lb.usuario ()
 
 #menu
-
+fsdfsdf
 
